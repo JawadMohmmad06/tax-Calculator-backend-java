@@ -1,0 +1,18 @@
+create table taxslnrate
+(
+    id                  bigint auto_increment
+        primary key,
+    genaral1stSlab      int         null,
+    femalgenaral1stSlab int         null,
+    sslab               int         null,
+    tslab               int         null,
+    fslab               int         null,
+    restslab            int         null,
+    firstSlabRate       int         null,
+    secSlabRate         int         null,
+    thSlabRate          int         null,
+    fSlabRate           int         null,
+    reSlabRate          int         null,
+    tax_year            varchar(20) null
+);
+
