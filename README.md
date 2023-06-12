@@ -1,5 +1,5 @@
 # Tax Calculator
-
+## Frontend https://github.com/JawadMohmmad06/tax-calculator-frontend-javascript
 This project is a tax calculator application built using Java and the Spring MVC framework. It provides a web-based interface for calculating taxes based on user input.
 
 The application supports two types of users: admin and regular users. The admin user has additional functionalities for managing tax rates and performing administrative tasks, while regular users can calculate their taxes and view their tax history.
