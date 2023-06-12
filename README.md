@@ -20,6 +20,7 @@ The application supports two types of users: admin and regular users. The admin 
 - Spring MVC framework
 - Apache log4j for logging
 - Spring Security for authentication and authorization
+- MySql
 
 ## Usage
 
